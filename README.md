@@ -1,3 +1,3 @@
 # MSLib
 
-MassSpec C++ library used in PIXL
+MassSpec C++ library used in https://github.com/gygilab/PIXL
